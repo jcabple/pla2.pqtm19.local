@@ -1,0 +1,42 @@
+@charset "UTF-8";
+@import	("reset.css");
+
+div {
+	background-color: red;
+	height: 400px;
+	width: 800px;
+	margin: 50px auto;
+	Position: relative;	
+}
+div #Doraemon1 {
+	height: 150px;
+	width: 150px;
+	background-color: blue;
+	position: absolute;
+	top: 200px;
+	left: 50px;
+}
+div #Doraemon2 {
+	height: 150px;
+	width: 150px;
+	background-color: blue;
+	position: absolute;
+	top: 80px;
+	left: 220px;
+}
+div #Doraemon3 {
+	height: 150px;
+	width: 150px;
+	background-color: blue;
+	position: absolute;
+	top: 100px;
+	left: 440px;
+}
+div #Doraemon4 {
+	height: 150px;
+	width: 150px;
+	background-color: blue;
+	position: absolute;
+	top: 200px;
+	left: 600px;
+}
