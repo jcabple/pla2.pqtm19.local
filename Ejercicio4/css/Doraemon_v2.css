@@ -2,38 +2,38 @@
 @import	("reset.css");
 
 div {
+	background: url(../img/ex6-mario.png) 0px 0px;
 	height: 400px;
 	width: 800px;
 	margin: 50px auto;
 	Position: relative;	
 }
-.Doraemon {
+.Doraemon{
 	margin: 0;
 	height: 150px;
 	width: 150px;
-	margin: 0;
-}
+} 
 #Doraemon1 {
 	background: url(../img/ex6-doraemon.png) -150px -450px;
 	position: absolute;
-	top: 214px;
+	top: 164px;
 	left: 0px;
 }
 #Doraemon2 {
 	background: url(../img/ex6-doraemon.png) -450px -150px;
 	position: absolute;
-	top: 50px;
+	top: 0px;
 	left: 160px;
 }
 #Doraemon3 {
 	background: url(../img/ex6-doraemon.png) -150px 0px;
 	position: absolute;
-	top: 63px;
+	top: 13px;
 	left: 416px;
 }
 #Doraemon4 {
 	background: url(../img/ex6-doraemon.png) -300px -450px;
 	position: absolute;
-	top: 197px;
+	top: 147px;
 	left: 610px;
 }
