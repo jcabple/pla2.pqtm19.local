@@ -2,7 +2,7 @@
 @import	("reset.css");
 
 div {
-	background-color: red;
+	/* background-color: red; */
 	height: 400px;
 	width: 800px;
 	margin: 50px auto;
@@ -11,31 +11,35 @@ div {
 div #Doraemon1 {
 	height: 150px;
 	width: 150px;
-	background-color: blue;
+	/* background-image: blue; */
+	background: url(../img/ex6-doraemon.png) -150px -450px;
 	position: absolute;
-	top: 200px;
-	left: 50px;
+	top: 164px;
+	left: 0px;
 }
 div #Doraemon2 {
 	height: 150px;
 	width: 150px;
-	background-color: blue;
+	/* background-image: blue; */
+	background: url(../img/ex6-doraemon.png) -450px -150px;
 	position: absolute;
-	top: 80px;
-	left: 220px;
+	top: 0px;
+	left: 160px;
 }
 div #Doraemon3 {
 	height: 150px;
 	width: 150px;
-	background-color: blue;
+	/* background-image: blue; */
+	background: url(../img/ex6-doraemon.png) -150px 0px;
 	position: absolute;
-	top: 100px;
-	left: 440px;
+	top: 13px;
+	left: 416px;
 }
 div #Doraemon4 {
 	height: 150px;
 	width: 150px;
-	background-color: blue;
+	/* background-image: blue; */
+	background: url(../img/ex6-doraemon.png) -300px -450px;
 	position: absolute;
 	top: 200px;
 	left: 600px;
