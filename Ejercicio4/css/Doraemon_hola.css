@@ -1,0 +1,55 @@
+@charset "UTF-8";
+@import	("reset.css");
+
+div {
+	background: url(../img/ex6-mario.png) 0px 0px;
+	height: 400px;
+	width: 800px;
+	margin: 50px auto;
+	Position: relative;	
+}
+.Doraemon{
+	margin: 0;
+	height: 150px;
+	width: 150px;
+} 
+#Doraemon1 {
+	background: url(../img/ex6-doraemon.png) -150px -450px;
+	position: absolute;
+	top: 164px;
+	left: 0px;
+}
+#Doraemon1:hover {
+	background: url(../img/hola-2017.gif) 0 0;
+	background-size:contain;
+}
+#Doraemon2 {
+	background: url(../img/ex6-doraemon.png) -450px -150px;
+	position: absolute;
+	top: 0px;
+	left: 160px;
+}
+#Doraemon2:hover {
+	background: url(../img/hola-2017.gif) 0 0;
+	background-size:contain;
+}
+#Doraemon3 {
+	background: url(../img/ex6-doraemon.png) -150px 0px;
+	position: absolute;
+	top: 13px;
+	left: 416px;
+}
+#Doraemon3:hover {
+	background: url(../img/hola-2017.gif) 0 0;
+	background-size:contain;
+}
+#Doraemon4 {
+	background: url(../img/ex6-doraemon.png) -300px -450px;
+	position: absolute;
+	top: 147px;
+	left: 610px;
+}
+#Doraemon4:hover {
+	background: url(../img/hola-2017.gif) 0 0;
+	background-size:contain;
+}
